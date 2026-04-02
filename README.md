@@ -24,4 +24,4 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpithaarpitha285@gmail.com)
 
 ---
-⭐️
+⭐️ LEADING IN THE WORST SITUATIONS TO BUILD A BRIGHTER FUTURE!!..
