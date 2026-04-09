@@ -11,13 +11,16 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/ArpithaDasprakash/Python-Programming)
+[![C](https://img.shields.io/badge/-%20-555555?style=for-the-badge&logo=c&logoColor=black)](https://github.com/ArpithaDasprakash/C-Program)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ArpithaDasprakash/Python-Programming)
 
 **Tools:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%708090.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 GitHub Stats
+![Arpitha's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArpithaDasprakash&show_icons=true&hide_border=true&title_color=2EC866&icon_color=2EC866)
 
 ### 📫 Let's Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
